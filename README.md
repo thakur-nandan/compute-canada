@@ -15,7 +15,7 @@ steps to set up your compute canada resources and important guidelines.
 - Login to CC
 - Using modules
 - Creating and using a virtual environment
-- Build everything from scratch using anaconda
+- Building everything from scratch using anaconda
 - Installing Python modules
 - Transfer data
 - Interactive jobs
@@ -176,7 +176,7 @@ You can now load the environment once after it has been created:
 
 ---
 
-## Build everything from scratch using anaconda
+## Building everything from scratch using anaconda
 
 This section will introduce how to set enviroment from scratch without depending on **ComputeCanada(CC)**:
 
