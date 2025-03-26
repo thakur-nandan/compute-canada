@@ -225,7 +225,7 @@ $ echo 'export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
 $ source ~/.bashrc
 ```
 
-### Step 5: verify Cuda Installation
+### Step 5: verify CUDA Installation
 
 Check if Pytorch detects CUDA:
 
